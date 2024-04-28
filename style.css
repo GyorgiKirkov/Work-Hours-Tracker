@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="time"] {
+    width: 100px;
+}
+
+.inputs{
+    margin: 10px;
+}
+ 
+.topOne{
+    text-align: center;
+}
+.addButton{
+    margin: auto;
+    width: 40%;
+}
+.dateIn{
+    margin-left: 20px;
+}
+.startAt{
+margin-left: 125px;
+}
+
+.endAt{
+    margin-left: 105px;
+}
+.brakeAt{
+    margin-left: 115px;
+}
+.hoursDone{
+    margin-left: 120px;
+}
+.madeToday{
+    margin-left: 180px;
+}
